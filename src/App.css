@@ -31,34 +31,34 @@
 @keyframes mymove {
   from {
     transform: rotate(0deg);
-    background: red;
+    color: red;
   }
 
   to {
     transform: rotate(-360deg);
-    background: green;
+    color: yellow;
   }
 }
 @keyframes mycoding {
   from {
     transform: rotate(0deg);
-    background: blue;
+    color: blue;
   }
 
   to {
     transform: rotate(360deg);
-    background: purple;
+    color: yellow;
   }
 }
   @keyframes mymoon {
     from {
       transform: rotate(0deg);
-      background: yellow;
+      color: skyblue;
     }
   
     to {
       transform: rotate(-360deg);
-      background: pink;
+      color: yellow;
     }
   }
 
